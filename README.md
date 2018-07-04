@@ -3,7 +3,7 @@ Supplementary files supporting the TACL paper: G. Collell and M.F. Moens (2018) 
 
 # Files provided:
 
-spatial_1016.txt: human annotated wors pairs ranked by spatial similarity (see Similarity task in the paper)
+spatial_1016.txt: human annotated word pairs ranked by spatial similarity (see Similarity task in the paper)
 
 spatial_emb-LANG.csv: trained linguistic embeddings (initialized with GloVe)
 
